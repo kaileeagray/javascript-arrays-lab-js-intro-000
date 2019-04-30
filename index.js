@@ -28,3 +28,8 @@ function prependKitten(name) {
   var array = [name].concat(kittens);
   return array;
 }
+
+function prependKitten(name) {
+  var array = [name].concat(kittens);
+  return array;
+}
